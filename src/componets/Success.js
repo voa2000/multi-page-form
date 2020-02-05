@@ -23,8 +23,8 @@ export class Success extends Component {
             fullWidth="true"
             maxWidth='sm'
           >
-            <AppBar title="Success" />
-            <h1>Thank You For Your Submission</h1>
+            <h1>Success</h1>
+            <h2>Thank You For Your Submission</h2>
             <p>You will get an email with further instructions</p>
           </Dialog>
         </React.Fragment>

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
+import { MuiThemeProvider } from '@material-ui/core';
 import {Dialog, AppBar, TextField,Button} from '@material-ui/core';
 
 export class FormPersonalDetails extends Component {
@@ -23,7 +23,7 @@ export class FormPersonalDetails extends Component {
             fullWidth="true"
             maxWidth='sm'
           >
-            <AppBar title="Enter Personal Details" />
+            <h1>Enter Personal Details</h1>
             <TextField
               placeholder="Enter Your Occupation"
               label="Occupation"

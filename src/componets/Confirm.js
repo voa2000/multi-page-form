@@ -27,7 +27,7 @@ export class Confirm extends Component {
             fullWidth="true"
             maxWidth='sm'
           >
-          <AppBar title="Confirm User Data" />
+          <h1>Confirm User Data</h1>
           <List>
             <ListItem>
               <ListItemText primary="First Name" secondary={firstName} /> 

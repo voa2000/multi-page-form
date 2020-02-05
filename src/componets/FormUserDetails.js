@@ -18,7 +18,7 @@ export class FormUserDetails extends Component {
             fullWidth="true"
             maxWidth='sm'
           >
-            <AppBar title="Enter User Details" />
+            <h1>Enter User Details</h1>
             <TextField
               placeholder="Enter Your First Name"
               label="First Name"
