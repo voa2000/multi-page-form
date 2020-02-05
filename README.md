@@ -3,21 +3,21 @@ Form with multiple steps and confirmation. Frontend only, no API. Uses Material 
 
 ## Quick Startup Guide
 
-## Install dependencies
+### Install dependencies
 ```npm install```
 
-## Serve on localhost:3000
+### Serve on localhost:3000
 ```npm start```
 
-## Build for production
+### Build for production
 ```npm run build```
 
 ## App Information
 
-## Author
+### Author
 Vivienne Owusu-Ansah
 
-## Version
+### Version
 1.0.0
 
 ### License
