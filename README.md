@@ -1,7 +1,7 @@
-### React Multi Step Form
+## React Multi Step Form
 Form with multiple steps and confirmation. Frontend only, no API. Uses Material UI
 
-### Quick Startup Guide
+## Quick Startup Guide
 
 # Install dependencies
 ```npm install```
@@ -12,7 +12,7 @@ Form with multiple steps and confirmation. Frontend only, no API. Uses Material 
 # Build for production
 ```npm run build```
 
-### App Information
+## App Information
 
 # Author
 Vivienne Owusu-Ansah
